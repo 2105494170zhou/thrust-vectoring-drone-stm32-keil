@@ -1,4 +1,4 @@
-# Thrust-Vectoring Drone (Student Project)
+# Thrust-Vectoring Drone
 
 I built a thrust-vectoring drone that tilts its motors with small servos so the frame can stay level while moving.  
 This is a individual passion project where I learned a lot about wiring, tuning PID, and making 3D parts fit together.
@@ -9,7 +9,7 @@ This is a individual passion project where I learned a lot about wiring, tuning 
 ## What this does
 
 - Reads the IMU (gyro/accel) to know the drone’s pitch/roll.
-- Moves **vectoring servos** to angle each motor slightly so the thrust points where we need it.
+- Moves vectoring servos to angle each motor slightly so the thrust points where we need it.
 - Tries to keep the main frame level while I change throttle.
 - Logs some data so I can see what went wrong (or right).
 
