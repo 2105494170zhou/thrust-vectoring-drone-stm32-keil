@@ -23,7 +23,7 @@ This is a individual passion project where I learned a lot about wiring, tuning 
 - **Frame:** mix of 3D-printed parts (PLA) + carbon rods + carbon plates  
 - **Other:** bearings, M3 screws, zip ties, nano tape
 
-## 🧩 How It Works (Simple Explanation)
+## How It Works
 
 1. The IMU gives the pitch and roll angles.  
 2. The code compares these angles with the target (flat = 0°).  
