@@ -32,7 +32,7 @@ This is an individual passion project where I learned wiring, PID tuning, and ma
 
 ## Code origin & my changes
 
-The project code is based on a template. I added a **thrust-vectoring control block** in the **Ano_AttCtrl.c** under **Ano_Scheduler.c**  to map attitude errors (and a remote “tilt” input) into servo outputs. This lives in:
+The project code is based on a template. I added a **thrust-vectoring control block** in the `**Ano_AttCtrl.c**` under `**Ano_Scheduler.c**`  to map attitude errors (and a remote “tilt” input) into servo outputs. This lives in:
 
 
 ### My control block (added)
